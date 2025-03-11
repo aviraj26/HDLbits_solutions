@@ -1,22 +1,12 @@
-# HDLbits_solutions
-Solutions of HDL bits
+<h1 align="center">HDLBits Verilog Practice</h1>
+
+<p align="center">
+  <b>A structured collection of solved Verilog files for every question in HDLBits.</b><br>
+</p>
+
+<hr>
 
 
-HDLBits-Solutions/
-├── Basics/
-│   ├── gates.v
-│   ├── simple_logic.v
-│   └── ...
-├── Circuits/
-│   ├── mux2to1.v
-│   ├── adder.v
-│   └── ...
-├── SequentialLogic/
-│   ├── dff.v
-│   ├── shift_register.v
-│   └── ...
-├── FSM/
-│   ├── fsm_sequence_detector.v
-│   ├── fsm_mealy.v
-│   └── ...
-└── README.md
+<p>This repository is organized into folders representing different sections from <a href="https://hdlbits.01xz.net/wiki/Main_Page" target="_blank">HDLBits</a>. Each problem has its own <code>.v</code></p>
+
+
