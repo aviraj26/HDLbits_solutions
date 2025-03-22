@@ -19,5 +19,5 @@ module top_module (
         if(~aresetn) state <= S1;
         else state <= next_state;
     end
-    assign z = (next_state == S2) &(state == S3);
+    assign z = x & (state == S3);
 endmodule
